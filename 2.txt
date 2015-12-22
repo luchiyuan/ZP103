@@ -1,2 +1,3 @@
 HelloWorld
 Today is a wonderful day
+Add new line. Fix bug from crash.
